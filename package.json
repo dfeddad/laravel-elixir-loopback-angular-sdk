@@ -1,0 +1,29 @@
+{
+  "name": "laravel-elixir-loopback-angular-sdk",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Loopback AngularJS SDK Extension",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfeddad/laravel-elixir-loopback-angular-sdk.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "gulp",
+    "loopback",
+    "angular",
+    "sdk"
+  ],
+  "author": "Djamel Feddad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfeddad/laravel-elixir-loopback-angular-sdk/issues"
+  },
+  "homepage": "https://github.com/dfeddad/laravel-elixir-loopback-angular-sdk#readme",
+  "dependencies": {
+    "gulp-loopback-sdk-angular": "^0.1.4",
+    "loopback-sdk-angular": "github:dfeddad/loopback-sdk-angular"
+  }
+}
